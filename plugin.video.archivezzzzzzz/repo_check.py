@@ -8,7 +8,7 @@ from glob import glob
 DB_PATH = xbmcvfs.translatePath('special://home/userdata/Database/')
 DB_FILE = glob(DB_PATH + 'Addons*.db')[0]
 MY_ADDON = xbmcaddon.Addon().getAddonInfo('id')
-SAFE_REPOS = ['', 'repository.mjinit']  # list of allowed repos, keep the empty quotes to allow addon to be installed from zip file
+SAFE_REPOS = ['repository.mjinit']  # list of allowed repos, keep the empty quotes to allow addon to be installed from zip file
 MESSAGE = 'This addon was installed by an unofficial repository.'  # change to whatever you want
 
 def get_origin(addon_id: str):
