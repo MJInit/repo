@@ -99,6 +99,4 @@ def main():
     return 0
 
 if __name__ == "__main__":
-    from repo_check import repo_check
-    repo_check()
     main()
