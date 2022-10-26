@@ -1,0 +1,13 @@
+{
+    "items": [
+		{
+            "type":"plugin",
+            "title":"[COLOR orange]Test[/COLOR]"
+        },
+        {
+            "type": "item",
+            "title": "[COLOR gold]Clear Addon Cache[/COLOR]",
+            "link": "clear_cache"
+        }
+    ]
+}
