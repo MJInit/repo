@@ -33,7 +33,6 @@ info="http://"
 description="Widgets are active, just hidden. Press up to see them. 
  Updated  9-28, Added Another Add-On. - 190 mb zipped"
 
-
 name="Simplified"
 version="0.4.4"
 url="http://the-hermit.com/builds/simplified-0.4.4.zip"
